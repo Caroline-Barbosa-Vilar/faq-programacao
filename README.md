@@ -12,7 +12,7 @@ A mini project of a FAQ section about web programming, to test the knowledge acq
 
 ## What I learn
 
-- Introduction to javascript (different types of scopes, primitive data types, );
+- Introduction to javascript (different types of scopes, primitive data types...);
 - Declaring variables;
-- Creating Basic Functions;
+- Creating basic functions;
 - The kinds of loops and iterations.
