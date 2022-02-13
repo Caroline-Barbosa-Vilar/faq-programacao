@@ -10,7 +10,7 @@ A mini project of a FAQ section about web programming, to test the knowledge acq
 - CSS;
 - JS.
 
-## What I learn
+## What I have learned
 
 - Introduction to javascript (different types of scopes, primitive data types...);
 - Declaring variables;
