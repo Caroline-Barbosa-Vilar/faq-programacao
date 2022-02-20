@@ -2,7 +2,11 @@
 
 A mini project of a FAQ section about web programming, to test the knowledge acquired in the first javascript course. 
 
-[<img src="./imagens/tela-faq.gif" alt="FAQ project screen gif">](https://bo83dev.github.io/faq-programacao/)
+https://bo83dev.github.io/faq-programacao/
+
+Desktop
+
+<img src="./imagens/tela-faq.gif" alt="FAQ project screen gif">
 
 ## Technologies
 
