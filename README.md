@@ -94,7 +94,7 @@ Tablet:
 
 <p align="justify">
 
-Um mini projeto de uma seção de FAQ fictícia sobre programação web. Esse projeto é um dos desafios propostos no site 'Frontend Mentor' e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
+Um mini projeto de uma seção de FAQ fictícia sobre programação web. Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home) e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
 
 [O desafio](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
