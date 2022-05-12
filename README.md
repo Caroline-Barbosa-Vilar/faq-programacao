@@ -25,7 +25,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <p align="justify">
 
-A mini project of a fictitious FAQ section about web programming. This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the aid of the design tools (figma) and making it as close as possible to the requested one. 
+A mini project of a fictitious FAQ section about web programming. This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the guidance of a design tool (figma) and making it as close as possible to the requested one. 
 
 [The challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
