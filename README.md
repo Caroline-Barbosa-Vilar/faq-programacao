@@ -50,7 +50,7 @@ A mini project of a fictitious FAQ section about web programming. This project i
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/faq-programacao/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/faq-programacao/) 
 
 Mobile:
 
@@ -120,7 +120,7 @@ Um mini projeto de uma seção de FAQ fictícia sobre programação web. Esse pr
 ## Acesse o projeto
 
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/faq-programacao/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/faq-programacao/) 
 
 Mobile:
 
@@ -137,4 +137,4 @@ Tablet:
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
